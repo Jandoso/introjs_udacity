@@ -1,4 +1,4 @@
-// Lesson 2: Data Tyoes & Variables
+// Lesson 2: Data Types & Variables
 
 // Quiz: Semicolons! (2-8)
 // Directions:
